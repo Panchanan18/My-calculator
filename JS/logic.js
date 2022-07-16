@@ -1,4 +1,4 @@
-console.log("this is my calculator")
+console.log("this is my calculator.This can do all the basic arithmetic operations");
 let screen=document.getElementById('screen');
 let screenValue="";
 buttons=document.querySelectorAll('button');
